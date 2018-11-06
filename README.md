@@ -1,0 +1,1 @@
+This is a base image for an Ubuntu 16.04 agent in VSTS.
